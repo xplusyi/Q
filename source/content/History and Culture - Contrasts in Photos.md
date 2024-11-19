@@ -45,7 +45,7 @@ modified: 2024-11-17 09:29:42
 
 ## West Papua Indigenous People at UNITED NATIONS
 
-![[WestPapua@UN2017May.png]]
+![[WestPapua UN 2017May.png]]
 ### Source
 >Welcome to UN
 **West Papua** indigenous people the Ngalum Uropkulin and Kasipka Tribes of Star Mountain Area with Koteka at UN Headquarters in New York, USA May 2017. This is the first time in history West Papua with **Koteka** at UNITED NATIONS. 
