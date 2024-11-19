@@ -46,6 +46,7 @@ modified: 2024-11-17 09:29:42
 ## West Papua Indigenous People at UNITED NATIONS
 
 ![[West Papua UN 2017May.png]]
+![](https://scontent-cdg4-3.xx.fbcdn.net/v/t39.30808-6/458207115_1898245130600244_5869481018098420652_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=fu2sAqao6_wQ7kNvgFsfw_q&_nc_zt=23&_nc_ht=scontent-cdg4-3.xx&_nc_gid=A7f8Rn1dMYvdm1jzT4GwWEO&oh=00_AYCLwKyZHg68XhDifUnIfrXWX3wrdr8xeoXN36HYeGBXlg&oe=6742B2EA)
 
 ### Source
 >Welcome to UN
