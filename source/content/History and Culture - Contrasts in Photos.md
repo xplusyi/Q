@@ -45,7 +45,7 @@ modified: 2024-11-17 09:29:42
 
 ## West Papua Indigenous People at UNITED NATIONS
 
-![[WestPapua UN 2017May.png]]
+![[West Papua UN 2017May.png]]
 
 ### Source
 >Welcome to UN
