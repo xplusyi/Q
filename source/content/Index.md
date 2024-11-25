@@ -5,4 +5,4 @@ publish: true
 
 Hello world.
 
-![[../img/Oxalis.png|Oxalis.png]]
+![Oxalis.png](./img/Oxalis.png)

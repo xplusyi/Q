@@ -6,7 +6,7 @@ dg-home: true
 
 **It finally works!**
 
-[[../../../Test Digital Garden|Test Digital Garden]]
+[Test Digital Garden](../../Test%20Digital%20Garden.md)
 
 
 
