@@ -8,6 +8,6 @@ dg-home: true
 
 [[../../../Test Digital Garden|Test Digital Garden]]
 
-![[../../../History and Culture - Contrasts in Photos|History and Culture - Contrasts in Photos]]
+
 
 END.
